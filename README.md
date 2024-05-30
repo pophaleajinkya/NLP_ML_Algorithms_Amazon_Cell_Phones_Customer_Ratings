@@ -15,4 +15,4 @@ c.	BiLSTM: Train a single directional RNN with L layers. Vary the number of laye
 5.	BERT
 a.	Use the pretrained 12-layer BERT model. Use input size as 128. Use Batch size: 16. Finetune BERT for few (say 5) epochs on train data. Report accuracy on test set. Also, track variation in train loss and validation loss to ensure there is no overfitting.
 Finally, submit a 4-page project report summarizing your findings with respect to the accuracy obtained using various models you tried. 
-![image](https://github.com/pophaleajinkya/NLP_ML_Algorithms_Amazon_Cell_Phones_Customer_Ratings/assets/68433967/1f0d221e-b690-4b1a-a7ae-de4d9f8d04e0)
+
